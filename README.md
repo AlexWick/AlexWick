@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**AlexWick/AlexWick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**AlexWick/AlexWick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 - 🔭 I’m currently working on #NFTrees
 - 🌱 I’m currently growing two redwood #NFTrees
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Smoke Signals
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: ACAB
--->
